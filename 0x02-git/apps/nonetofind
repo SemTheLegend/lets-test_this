@@ -1,0 +1,12 @@
+Lol get lost
+lets try something different 
+
+#include <iostream>
+using namespace std;
+
+int main()
+{ 
+cout << "hello Sem The Legend" << endl;
+
+return 0;
+}
